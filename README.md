@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[www.linkedin.com/in/vinoth-manoharan-7437b1a3/](https://www.linkedin.com/in/vinoth-manoharan-7437b1a3/)">
+  <a href="https://www.linkedin.com/in/vinoth-manoharan-7437b1a3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/vino_codes/">
