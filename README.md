@@ -19,9 +19,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
 
-<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Technologist.gif" width="35px"/> About Me :
+
+<h2><img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Technologist.gif" width="35px"/> About Me :</h2>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
@@ -33,9 +33,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vinoth_Manoharan-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vinoth-manoharan-7437b1a3)
 
----
 
-<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/mechanical-arm.gif" width="35px"/> Languages and Tools :
+
+<h2><img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/mechanical-arm.gif" width="35px"/> Languages and Tools :</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="60" height="60"/>&nbsp;
@@ -50,9 +50,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Git" **alt="nextjs" width="60" height="60"/>
  </div>
  
- ---
+ 
 
-<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/fire-1.gif" width="35px"/> My Stats :
+<h2><img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/fire-1.gif" width="35px"/> My Stats :</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vino00619&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
