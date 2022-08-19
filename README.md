@@ -23,7 +23,7 @@
 
 <h2><img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Technologist.gif" width="35px"/> About Me :</h2>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from chennai.
 
 - :telescope: I’m an aspiring Full Stack Developer. I build full stack web applications.
 
