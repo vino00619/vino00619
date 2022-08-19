@@ -15,13 +15,13 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hi <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/smiling-face-with-sunglasses-1.gif" width="35px"/>, I'm Vinoth Manoharan.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
 
-### :man_technologist: About Me :
+<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Technologist.gif" width="35px"/> About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m an aspiring Full Stack Developer. I build full stack web applications.
@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/mechanical-arm.gif" width="35px"/> Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="60" height="60"/>&nbsp;
@@ -48,37 +48,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="figma" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Git" **alt="nextjs" width="60" height="60"/>
  </div>
+ 
  ---
 
-### :fire: My Stats :
+<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/fire-1.gif" width="35px"/> My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vino00619&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vino00619&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/vino00619/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**vino00619/vino00619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
